@@ -1,0 +1,11 @@
+Assembler for Group 7
+** Tested and created with Python 2.7.5
+
+To Run Assembler:
+
+In terminal (or windows equivalent) input the following command:
+
+python assembler.py [input] [output]
+
+[input]: the desired file you would like to assemble (ie: fib.asm)
+[output]: enter the name you would like for the binary file

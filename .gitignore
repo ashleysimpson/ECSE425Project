@@ -1,0 +1,12 @@
+# VHDL project stuff
+*.mti
+*.mpf
+*.wlf
+*.pyc
+work/
+*.bak
+MemCon*.dat
+Init*.dat
+*.cache
+*.sublime_session
+*.sublime-settings
